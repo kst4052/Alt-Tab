@@ -3,7 +3,7 @@ This game was made during the RIT Game Dev Club's annual Game Jam. The Game Jam 
 
 Click [here](https://github.com/kst4052/Alt-Tab/blob/master/GameJam.exe "final build") to find the download for the final build of the game. It runs on Unity. 
 
-Click [here](https://github.com/tafellappen/The-game-of-the-game-jam-fam.git) to find the repository that contains all the assets of the game, such as the scripts, assets and art. 
+Click [here](https://github.com/tafellappen/The-game-of-the-game-jam-fam.git) to find the repository that contains all the assets of the game, such as the scripts, and art. 
 
 Click here to see the game design document:![Game Design Document](https://github.com/kst4052/Alt-Tab/blob/master/Design%20Document.pdf "game design doc")
 

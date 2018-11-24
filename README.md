@@ -1,2 +1,3 @@
 # Alt-Tab
-This game was made during the RIT Game Dev Club's annual Game Jam. The Game Jam was 48 hours, and it won "Best In Design" out of the four awards given. 
+This game was made during the RIT Game Dev Club's annual Game Jam. The Game Jam was 48 hours, and it won "Best In Design" out of the four awards given. The Game Jam's theme was: "Every day tasks" and you're a student playing a variety of mini-games without the professor catching you. Completing mini-games grants points, not completing them grants no points, and getting caught by the professor ends the game.
+Click [here](https://github.com/tafellappen/The-game-of-the-game-jam-fam.git) to find the repository that contains all the assets of the game, such as the scripts, assets and art. 
